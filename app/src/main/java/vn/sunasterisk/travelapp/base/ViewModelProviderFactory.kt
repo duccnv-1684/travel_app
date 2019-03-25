@@ -1,4 +1,4 @@
-package vn.sunasterisk.travelapp
+package vn.sunasterisk.travelapp.base
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.ViewModelProvider
